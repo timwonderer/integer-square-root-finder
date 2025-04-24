@@ -23,7 +23,8 @@ Instead of **brute force**, this project uses **binary search**, **digit-based n
 | ⚙️ **Binary Search**              | Efficiently zeroes in on possible square roots                 |
 | 💪 **Linear Search Finish**       | Final pass checks the last few candidates                      |
 
-> **Efficiency** here isn’t about shortcuts—it’s about **knowing where not to look**.
+>[!NOTE]
+> **Efficiency** here isn’t about shortcuts—it’s about **knowing where not to look**. This was a demo project for AP CSP to showcase modularity and pattern recognition 
 
 ---
 
@@ -129,7 +130,7 @@ If you’re the kind of person who enjoys **breaking problems apart** just to se
 
 ---
 
-> **Disclaimer:**  
+> [!IMPORTANT] 
 > This project is for **learning and exploration**.  
 > It’s not a drop-in replacement for `math.isqrt()`—but it’ll show you **how things work** behind the scenes.
 
