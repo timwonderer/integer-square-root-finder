@@ -2,8 +2,6 @@
 
 _Because `math.sqrt()` felt too easy._
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
 This isn’t just a square root finder.  
 It’s a **thought experiment**:
@@ -135,8 +133,19 @@ If you’re the kind of person who enjoys **breaking problems apart** just to se
 > It’s not a drop-in replacement for `math.isqrt()`—but it’ll show you **how things work** behind the scenes.
 
 ---
-
 ## License
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
 
-MIT License – because **sharing the weird stuff we build** makes it better.
+>[!IMPORTANT]
+> **This license allows you to:**
+> - Use this project in classrooms, clubs, and nonprofit educational settings
+> - Modify or adapt it for school use, assignments, or personal learning
+> - Share it with students or other educators
+> - Use it for research or academic presentations (as long as they are not sold)
+> 
+> **This license prohibits you from:**
+> - Use it as part of a commercial product or SaaS platform
+> - Host a paid service or subscription that includes this software
+> - Incorporate it into any offering that generates revenue (e.g., paid courses, tutoring platforms)
+> - Use it internally within a for-profit business, even if not publicly distributed
 
